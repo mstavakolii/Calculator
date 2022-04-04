@@ -1,2 +1,2 @@
-# JavaScript-Calculator
+# Calculator
 Project Calculator
